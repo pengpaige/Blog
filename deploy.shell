@@ -1,0 +1,2 @@
+hugo server --theme=hugo-rapid-theme --buildDrafts --watch
+hugo --theme=hugo-rapid-theme --baseUrl="http://pengpaige.github.io/BlogDeployed"
