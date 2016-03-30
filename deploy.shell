@@ -1,2 +1,5 @@
 hugo server --theme=hugo-rapid-theme --buildDrafts --watch
 hugo --theme=hugo-rapid-theme --baseUrl="http://pengpaige.github.io/BlogDeployed"
+
+#强行合并到远程 repo 上
+git push -u origin master -f
